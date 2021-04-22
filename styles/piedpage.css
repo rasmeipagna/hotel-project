@@ -1,0 +1,45 @@
+footer{
+	width:1000px;
+	height: 140px;
+	background-color: #325083;
+}
+footer p{
+	margin: 0;
+	height :100px;
+	line-height: 100px;
+	vertical-align: middle;
+	font-family: 'quicksandbook', arial;
+	font-size:10px;
+	color: white;
+	text-align: center;
+	float:left;
+}
+footer a,
+footer a:link,
+footer a:visited,
+footer a:active,
+footer a:hover{
+	color:white;
+	text-decoration:none;
+	font-size:14px;
+	font-family: 'quicksandbook', arial;
+}
+footer a:hover{
+	color: white;
+	text-decoration:underline;
+}
+#infos{
+	margin-left:200px;
+	margin-top:20px;
+	font-size:10px;
+	float:left;
+}
+
+#infos li{
+	list-style:none;
+}
+#mentions {
+	margin-left:800px;
+	float:left;
+
+}
